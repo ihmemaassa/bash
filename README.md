@@ -2,7 +2,7 @@
 Random bash script snippets made for whatever the need was..
 
 ## uv-seuraaja (uv-tracker)
-Uses open data from [FMI](https://en.ilmatieteenlaitos.fi/open-data) to keep track of one UV-measuring locations' measurements. Made to work with [xfce4-genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start). 
+Uses open data from [FMI](https://en.ilmatieteenlaitos.fi/open-data) to keep track of one UV-measuring location's measurements. Made to work with [xfce4-genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start). 
 
 ## ASCII/ANSI art
 Candles, Flag, Snow, Snowman & Tree are small art pieces inspired by prompts in our x-mas calendar. Very small, much art.
