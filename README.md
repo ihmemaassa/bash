@@ -1,6 +1,12 @@
 # Bash
 Random bash script snippets made for whatever the need was..
 
+## uv-seuraaja (uv-tracker)
+Uses open data from [FMI](https://en.ilmatieteenlaitos.fi/open-data) to keep track of one UV-measuring locations' measurements. Made to work with [xfce4-genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start). 
+
+## ASCII/ANSI art
+Candles, Flag, Snow, Snowman & Tree are small art pieces inspired by prompts in our x-mas calendar. Very small, much art.
+
 ## Embedded terminal
 Wanted to have a terminal staring at me at all times so I would start using it. First script ever, few days after switching to Linux. Didn't actually write it, but cleverly copy-pasted things I found online.  
 Useful manuals to have when customizing:  
