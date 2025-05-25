@@ -16,3 +16,7 @@ Useful manuals to have when customizing:
 
 ## GlaDOS Still alive
 Kid wanted to make her Linux Portal-themed, so I found some fun things for her. This is modified to our needs from here: [Turning Bash into GlaDOS and other fun trics](https://bbs.archlinux.org/viewtopic.php?id=92151). I did NOT write this one especially. Script prints out lyrics to Still alive and is synced to the song. Insane.
+
+## Selopticon 
+
+Selectively seeing eye for tracking activity for Testaustime on non-plugin editors.
